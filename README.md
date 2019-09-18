@@ -21,3 +21,7 @@ This is the contribution section
 ## Result
 
 This is the result
+
+### Copyright
+
+Copyright training
