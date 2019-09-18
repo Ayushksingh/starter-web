@@ -10,6 +10,14 @@ Sample website with plenty of files for demos
 
 This is an introduction of the Website
 
+## Body
+
+This is the body structure
+
 ## Contribution
 
 This is the contribution section
+
+## Result
+
+This is the result
