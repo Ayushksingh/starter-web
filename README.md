@@ -25,3 +25,4 @@ This is the result
 ### Copyright
 
 Copyright training
+All Rights Reserved.
