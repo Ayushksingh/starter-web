@@ -12,7 +12,7 @@ This is an introduction of the Website
 
 ## Body
 
-This is the body structure
+This is the body part where you update the body
 
 ## Contribution
 
